@@ -8,5 +8,5 @@ this plugin was originally created by hellbound but included malicious code. thi
 
 # install
 
-- git https://github.com/Subitize/vc-double-click-join-master
+- git https://github.com/subitize/vc-double-click-join-master
 
