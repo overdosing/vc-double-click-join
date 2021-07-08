@@ -1,7 +1,7 @@
 {
    "name": "Double Click Voice Channels",
-   "version": "2.0",
+   "version": "3.0",
    "description": "Requires you to double click voice channels to join them.",
-   "author": "saint",
+   "author": "envy",
    "license": "Unlicensed"
 }
