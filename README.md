@@ -9,5 +9,5 @@ this plugin was originally created by hellbound but included malicious code. thi
 
 # install
 
-- git clone https://github.com/overdosing/vc-double-click-join-master
+- `git clone https://github.com/overdosing/vc-double-click-join-master`
 
